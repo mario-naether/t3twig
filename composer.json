@@ -11,5 +11,10 @@
             "name": "Mario Näther",
             "email": "mario-naether@gmx.de"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "T3TWIG\\": "src/"
+        }
+    }
 }
