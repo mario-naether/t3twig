@@ -1,0 +1,15 @@
+{
+    "name": "mario-naether/t3twig",
+    "description": "Twig integration in extbase",
+    "type": "twig/twig",
+    "require": {
+        "twig/twig": "~1",
+        "typo3/cms": ">=7.6.0,<8.9.99"
+    },
+    "authors": [
+        {
+            "name": "Mario Näther",
+            "email": "mario-naether@gmx.de"
+        }
+    ]
+}
